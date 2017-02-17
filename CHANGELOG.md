@@ -7,6 +7,7 @@ HTTP
 
 * Fix Body requirements doc
 * Fix illegal characters accepted as hex zero
+* Fix Writer return value documentation
 
 WebSocket
 
